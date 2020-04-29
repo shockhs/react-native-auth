@@ -1,0 +1,1 @@
+<h2>auth App react-native + firebase (starter version)</h2>
